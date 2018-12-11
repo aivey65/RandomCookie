@@ -2,5 +2,13 @@
     <string name="app_name">RandomCookie</string>
     <string name="button">Random Cookie!</string>
     <string name="description">Click the button below to try a new cookie recipe!</string>
+    <string name="link">Doesn\'t that sound tasty? Here\'s a link to your recipe!</string>
+
+    <string name="title">Random Cookie Recipe Generator!</string>
+    <string name="creator">Created by Asha Ivey</string>
+
+    <string name="back">Back</string>
+    <string name="tap">Tap Here To Begin</string>
+
 
 </resources>
